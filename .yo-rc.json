@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "converter-util",
+    "libraryId": "263df017-441a-4958-a454-396d5661da15",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "converter-util",
+    "solutionShortDescription": "converter-util description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

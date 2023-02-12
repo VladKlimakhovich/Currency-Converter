@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "converter-util-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/converterUtil/ConverterUtilWebPart.js",
+          "manifest": "./src/webparts/converterUtil/ConverterUtilWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ConverterUtilWebPartStrings": "lib/webparts/converterUtil/loc/{locale}.js"
+  }
+}
